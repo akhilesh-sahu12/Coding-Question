@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea036df5-e02b-4f42-9b3f-7c3ac17f9889" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea/.idea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09 August/CheckArmstrongNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12H java/12H java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2nd Max element/2nd Max element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2nd coding question/2nd coding question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../30th/30th.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ABinaryPalindrome/ABinaryPalindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Allocate minimum pages/Allocate minimum pages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnagramString/AnagramString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arithmetic Square/Arithmetic Square.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array &amp; ArrayList/Array &amp; ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList userInput/ArrayList userInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AtoiFunction/AtoiFunction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Binary Search1/Binary Search1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Binary search/Binary search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bishu ans N soldiers/Bishu ans N soldiers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BitwiseOperators+NumberSystem/BitwiseOperators+NumberSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bubble Sort/Bubble Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Capgemini/Capgemini.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckArmstrongNumber/CheckArmstrongNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../College1/College1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count number of Duplicate words in given String/Count number of Duplicate words in given String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counting Valleys/Counting Valleys.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CyclicSort/CyclicSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructer/DataStructer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiceThrow&amp;LetterCombinatinsofaPhoneNumber/Defult/Check String palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiceThrow&amp;LetterCombinatinsofaPhoneNumber/Defult/Defult.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DiceThrow&amp;LetterCombinatinsofaPhoneNumber/Recursion Google, Amazon Question Dice Throw &amp; Letter Combinatins of a Phone Number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dynamic Programming/Dynamic Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibnocci Series/Fibnocci Series.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindMissingNumberOfArray/FindMissingNumberOfArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindSinglyLinkedListisPalindrome/FindSinglyLinkedListisPalindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindTypingTimeofString/FindTypingTimeofString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GDP/GDC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GDP/GDP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Google Kickstart round F/Google Kickstart round F.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Google kickStrart2021/Google kickStrart2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello World/Hello World.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello world!/Hello world!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello/Hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imp question for placement/Imp question for placement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insertion Sort/Insertion Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/InsertionSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview Preparation coding question/Interview Preparation coding question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kadane's Algo/Kadane's Algo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kadne's Algow/Kadne's Algow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/LL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/src/com/akhilesh/CustomLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LL/src/com/akhilesh/DoublyLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linear search/Linear search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongestNonRepeatingString/LongestNonRepeatingString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MIn &amp; Max element/MIn &amp; Max element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map1/Map1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Merge Sort/Merge Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinMaxSumOfArray/MinMaxSumOfArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mock InterView/Mock InterView.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MountBlue/MountBlue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../No. of trailling Zero/No. of trailling Zero factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../No. of trailling Zero/No. of trailling Zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number Series/Number Series.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberofGoodPair/NumberofGoodPair.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/ObjectOrientedProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PairOfSocksToSell/PairOfSocksToSell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern/Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Power of element/Power of element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prims Algo/Prims Algo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/QuickSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion midum/Recursion midum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecursionSubnetSubsequenceStringQuestion/Recursion subnet, Subsequence, String question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoveDuplicatesElementsInArray/RemoveDuplicatesElementsInArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RotateArray/RotateArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RotateArray1/important question.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAP_Lab/SAP_Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Searching Algo's/Searching Algo's.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Searching Algorithms/Searching Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selection Sort/Selection Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sort an Array of 1's , 2's, 3's/Sort an Array of 1's , 2's, 3's.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting Algorithms/Sorting Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SquereRootOfANumber/SquereRootOfANumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack and Queue/Stack and Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String &amp; StringBuilders/String &amp; StringBuilders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringProblems/StringProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sum of N number/Sum of N number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sum of N numbers/Sum of N numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sum of Two Arrays/Sum of Two Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sum of n natural number/Sum of n natural number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two number/Swap two number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreeInputDesending/ThreeInputDesending.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TimeComplexity/TimeComplexity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valid Parentheses/Valid Parentheses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wipro Talent Next/Wipro Talent Next.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check PrimeNumber/check PrimeNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check odd &amp; even number/check odd &amp; even number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../check primeNumberbetweenRange/check primeNumberbetweenRange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clock/clock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codeGladitor String/codeGladitor String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../custom arrayList/custom arrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../factorial of n/factorial of n.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../findLargestThreeDigitOddNumber/findLargestThreeDigitOddNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../impLogic/impLogic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../important question/String Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insertion and deletion in Array/insertion and deletion in Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome number/isPalindrome number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/isPalindrome String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/isPalindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPrime/isPrime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java 7H Video/java 7H Video.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java basics(full information)/java basics(full information).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javabasic/javabasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kadne algo/kadne algo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkedListImp/linkedListImp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../max sum  &amp; min sum/max sum  &amp; min sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxProductSubarrayOfSizeK/maxProductSubarrayOfSizeK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxpath Graph/maxpath Graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../method/method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimize hieght/minimize hieght.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mul 3/mul 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../print powerset of String/iaPalindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../print powerset of String/print powerset of String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../revers the array/revers the array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sum of n integer/sum of n integer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../superReducedString/superReducedString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trail/trail.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25GoHBpigW9XbOdjOoZazpny6HS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.akhilesh.Main" />
+      <module name="SubarrayWithGivenSum" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea036df5-e02b-4f42-9b3f-7c3ac17f9889" name="Changes" comment="" />
+      <created>1645162856761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645162856761</updated>
+    </task>
+    <servers />
+  </component>
+</project>

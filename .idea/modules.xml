@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/12H java/12H java.iml" filepath="$PROJECT_DIR$/12H java/12H java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd Max element/2nd Max element.iml" filepath="$PROJECT_DIR$/2nd Max element/2nd Max element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd coding question/2nd coding question.iml" filepath="$PROJECT_DIR$/2nd coding question/2nd coding question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30th/30th.iml" filepath="$PROJECT_DIR$/30th/30th.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ABinaryPalindrome/ABinaryPalindrome.iml" filepath="$PROJECT_DIR$/ABinaryPalindrome/ABinaryPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Allocate minimum pages/Allocate minimum pages.iml" filepath="$PROJECT_DIR$/Allocate minimum pages/Allocate minimum pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arithmetic Square/Arithmetic Square.iml" filepath="$PROJECT_DIR$/Arithmetic Square/Arithmetic Square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary search/Binary search.iml" filepath="$PROJECT_DIR$/Binary search/Binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bishu ans N soldiers/Bishu ans N soldiers.iml" filepath="$PROJECT_DIR$/Bishu ans N soldiers/Bishu ans N soldiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructer/DataStructer.iml" filepath="$PROJECT_DIR$/DataStructer/DataStructer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Defult/Defult.iml" filepath="$PROJECT_DIR$/Defult/Defult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibnocci Series/Fibnocci Series.iml" filepath="$PROJECT_DIR$/Fibnocci Series/Fibnocci Series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GDP/GDP.iml" filepath="$PROJECT_DIR$/GDP/GDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kadane's Algo/Kadane's Algo.iml" filepath="$PROJECT_DIR$/Kadane's Algo/Kadane's Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear search/Linear search.iml" filepath="$PROJECT_DIR$/Linear search/Linear search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkList/LinkList.iml" filepath="$PROJECT_DIR$/LinkList/LinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MIn &amp; Max element/MIn &amp; Max element.iml" filepath="$PROJECT_DIR$/MIn &amp; Max element/MIn &amp; Max element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mock InterView/Mock InterView.iml" filepath="$PROJECT_DIR$/Mock InterView/Mock InterView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MountBlue/MountBlue.iml" filepath="$PROJECT_DIR$/MountBlue/MountBlue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No. of trailling Zero/No. of trailling Zero.iml" filepath="$PROJECT_DIR$/No. of trailling Zero/No. of trailling Zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Power of element/Power of element.iml" filepath="$PROJECT_DIR$/Power of element/Power of element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion midum/Recursion midum.iml" filepath="$PROJECT_DIR$/Recursion midum/Recursion midum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SAP_Lab/SAP_Lab.iml" filepath="$PROJECT_DIR$/SAP_Lab/SAP_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort an Array of 1's , 2's, 3's/Sort an Array of 1's , 2's, 3's.iml" filepath="$PROJECT_DIR$/Sort an Array of 1's , 2's, 3's/Sort an Array of 1's , 2's, 3's.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum of N numbers/Sum of N numbers.iml" filepath="$PROJECT_DIR$/Sum of N numbers/Sum of N numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum of Two Arrays/Sum of Two Arrays.iml" filepath="$PROJECT_DIR$/Sum of Two Arrays/Sum of Two Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum of n natural number/Sum of n natural number.iml" filepath="$PROJECT_DIR$/Sum of n natural number/Sum of n natural number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swap two number/Swap two number.iml" filepath="$PROJECT_DIR$/Swap two number/Swap two number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/check PrimeNumber/check PrimeNumber.iml" filepath="$PROJECT_DIR$/check PrimeNumber/check PrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/check odd &amp; even number/check odd &amp; even number.iml" filepath="$PROJECT_DIR$/check odd &amp; even number/check odd &amp; even number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/check primeNumberbetweenRange/check primeNumberbetweenRange.iml" filepath="$PROJECT_DIR$/check primeNumberbetweenRange/check primeNumberbetweenRange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clock/clock.iml" filepath="$PROJECT_DIR$/clock/clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeGladitor String/codeGladitor String.iml" filepath="$PROJECT_DIR$/codeGladitor String/codeGladitor String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorial of n/factorial of n.iml" filepath="$PROJECT_DIR$/factorial of n/factorial of n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findLargestThreeDigitOddNumber/findLargestThreeDigitOddNumber.iml" filepath="$PROJECT_DIR$/findLargestThreeDigitOddNumber/findLargestThreeDigitOddNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertion and deletion in Array/insertion and deletion in Array.iml" filepath="$PROJECT_DIR$/insertion and deletion in Array/insertion and deletion in Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPalindrome/isPalindrome.iml" filepath="$PROJECT_DIR$/isPalindrome/isPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPalindrome number/isPalindrome number.iml" filepath="$PROJECT_DIR$/isPalindrome number/isPalindrome number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java basics(full information)/java basics(full information).iml" filepath="$PROJECT_DIR$/java basics(full information)/java basics(full information).iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadne algo/kadne algo.iml" filepath="$PROJECT_DIR$/kadne algo/kadne algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/max sum  &amp; min sum/max sum  &amp; min sum.iml" filepath="$PROJECT_DIR$/max sum  &amp; min sum/max sum  &amp; min sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxpath Graph/maxpath Graph.iml" filepath="$PROJECT_DIR$/maxpath Graph/maxpath Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minimize hieght/minimize hieght.iml" filepath="$PROJECT_DIR$/minimize hieght/minimize hieght.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mul 3/mul 3.iml" filepath="$PROJECT_DIR$/mul 3/mul 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/print powerset of String/print powerset of String.iml" filepath="$PROJECT_DIR$/print powerset of String/print powerset of String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/project.iml" filepath="$PROJECT_DIR$/project/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revers the array/revers the array.iml" filepath="$PROJECT_DIR$/revers the array/revers the array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum of n integer/sum of n integer.iml" filepath="$PROJECT_DIR$/sum of n integer/sum of n integer.iml" />
+    </modules>
+  </component>
+</project>

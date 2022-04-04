@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3f1663c-cf02-4bf6-a0f4-9a88a4e9ca80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Number Series/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern/src/com/Pattern/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecursionSubnetSubsequenceStringQuestion/src/com/placement/CountFrequencyOfCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecursionSubnetSubsequenceStringQuestion/src/com/placement/PrintAllPermutationOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecursionSubnetSubsequenceStringQuestion/src/com/placement/ReversStringOfSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringProblems/countFreqOfChar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first Program/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first Program/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first Program/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first Program/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first Program/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first Program/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first Program/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first Program/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first Program/first Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java 7H Video/src/com/placement/Encapsulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java 7H Video/src/com/placement/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2nd coding question/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2nd coding question/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestNonReapatingString/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestNonReapatingString/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Number Series/src/com/Series/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Number Series/src/com/Series/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecursionSubnetSubsequenceStringQuestion/out/production/Recursion subnet, Subsequence, String question/com/placement/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionSubnetSubsequenceStringQuestion/out/production/Recursion subnet, Subsequence, String question/com/placement/Permutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecursionSubnetSubsequenceStringQuestion/src/com/placement/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecursionSubnetSubsequenceStringQuestion/src/com/placement/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String &amp; StringBuilders/out/production/String &amp; StringBuilders/com/String/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../String &amp; StringBuilders/out/production/String &amp; StringBuilders/com/String/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String &amp; StringBuilders/src/com/String/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String &amp; StringBuilders/src/com/String/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringProblems/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringProblems/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringProblems/StringProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EPAM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringProblems/src/com/String/CountFrequencyOfCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringProblems/src/com/String/CountFrequencyOfCharacterInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java 7H Video/out/production/java 7H Video/com/placement/NestedLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java 7H Video/out/production/java 7H Video/com/placement/NestedLoop.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20FyWQe4OeBUbngtIzLXA8v9MNS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.placement.Main" />
+      <module name="EPAM" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3f1663c-cf02-4bf6-a0f4-9a88a4e9ca80" name="Default Changelist" comment="" />
+      <created>1635654727004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635654727004</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

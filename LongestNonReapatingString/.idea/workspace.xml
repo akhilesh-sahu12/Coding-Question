@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9af00c53-5b1d-43d6-afaa-c0b19eeb9f0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java 7H Video/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java 7H Video/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../java 7H Video/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../java 7H Video/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java 7H Video/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java 7H Video/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java 7H Video/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java 7H Video/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/Longest Substring not repeating Character.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../important question/String Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/out/production/Longest Substring not repeating Character/com/String/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/out/production/Longest Substring not repeating Character/com/String/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/src/com/String/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Substring not repeating Character/src/com/String/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../important question/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../important question/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../important question/important question.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java 7H Video/java 7H Video.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1znwvFKNrIKnpfCFpqge2pHh7gi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/placement" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akhil\IdeaProjects\LongestNonReapatingString\src\com\placement" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.placement.Main" />
+      <module name="LongestNonReapatingString" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9af00c53-5b1d-43d6-afaa-c0b19eeb9f0e" name="Default Changelist" comment="" />
+      <created>1634797392522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634797392522</updated>
+    </task>
+    <servers />
+  </component>
+</project>
